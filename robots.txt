@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saiabhijyan.github.io/sunrisers-nj-site/sitemap.xml
